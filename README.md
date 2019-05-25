@@ -1,3 +1,2 @@
-# Curso de Python para Ciência de Dados
-
+## DataScience Study Notebooks
 Pasta de estudo pessoal
